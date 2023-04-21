@@ -1,0 +1,28 @@
+commit a308dd42e154bb2a897afa2506ff5fcbdaab49aa
+Author: jumasaet <jumasaet@espol.edu.ec>
+Date:   Fri Apr 21 09:34:13 2023 -0500
+
+    Combinacion de commits
+    
+    * Nuevo parrafo a listado.txt
+    * Prueba para rebase
+
+commit b81e582e7a0e0ae1a9232207888fc15e512056b5
+Author: jumasaet <jumasaet@espol.edu.ec>
+Date:   Fri Apr 21 09:08:56 2023 -0500
+
+    Nuevo parrafo@
+
+commit 475986c42d872a7d64349ac982b6e56f003bf750
+Author: jumasaet <jumasaet@espol.edu.ec>
+Date:   Thu Apr 20 15:32:49 2023 -0500
+
+    Dando seguimiento a todos los archivos del repositorio
+
+commit 9815cfc6e11f698cc9bdcd706c631b781188ca61
+Author: jumasaet <jumasaet@espol.edu.ec>
+Date:   Thu Apr 20 14:23:34 2023 -0500
+
+    Mi primer versionamiento
+    
+    *Agregue el archivo de texto argumentativo
