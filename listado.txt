@@ -2,3 +2,8 @@ total 132K
 -rw-r--r-- 1 197609    0 abr. 20 14:01 listado.txt
 -rw-r--r-- 1 197609 131K abr. 20 14:00 Prueba GIT.docx
 ,mnm,n
+
+Igualmente, se utiliza mucho en el ámbito de la publicidad para crear recomendaciones personalizadas para los consumidores, basadas en sus búsquedas o en otros comportamientos en línea. La IA es muy importante en el comercio, para optimizar los procesos, planear el inventario, procesos logísticos, predecir comportamientos del mercado, entre muchos otros aspectos.
+Por otra parte, los sistemas de inteligencia artificial pueden ayudar a detectar y luchar contra los ciberataques y otras amenazas en línea basándose en los datos que reciben continuamente, reconociendo patrones e impidiendo los ataques. Es por esto que se reconoce cuando un usuario ingresa a su cuenta desde un dispositivo no convencional y se pide una verificación adicional.
+
+otro cambio
