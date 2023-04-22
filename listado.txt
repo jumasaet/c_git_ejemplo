@@ -2,3 +2,6 @@ total 132K
 -rw-r--r-- 1 197609    0 abr. 20 14:01 listado.txt
 -rw-r--r-- 1 197609 131K abr. 20 14:00 Prueba GIT.docx
 -Archivo inexistente
+
+
+-Archivo inexistente 2
